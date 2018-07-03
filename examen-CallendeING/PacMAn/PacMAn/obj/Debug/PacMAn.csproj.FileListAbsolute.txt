@@ -1,0 +1,10 @@
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\bin\Debug\PacMAn.exe.config
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\bin\Debug\PacMAn.exe
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\bin\Debug\PacMAn.pdb
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.Form1.resources
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.Properties.Resources.resources
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.csproj.GenerateResource.cache
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.csproj.CoreCompileInputs.cache
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.exe
+C:\Users\calle\Desktop\examen-CallendeING\PacMAn\PacMAn\obj\Debug\PacMAn.pdb
